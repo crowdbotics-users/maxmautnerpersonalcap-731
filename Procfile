@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT maxmautnerpersonalcap_731.wsgi:application
